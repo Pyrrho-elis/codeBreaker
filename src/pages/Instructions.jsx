@@ -3,7 +3,7 @@ import React from 'react'
 function Instructions() {
   return (
     <div className='instructions'>
-      <p>Welcome to Codebreaker! Your mission is to crack the secret code hidden within a randomly generated 4-digit number. Are you up for the challenge?</p>
+      <p>Welcome to Four Digits! Your mission is to crack the secret code hidden within a randomly generated 4-digit number. Are you up for the challenge?</p>
 
 <p>Here's how to play:</p>
 

@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className='main'>
       <div className="card">
-        <h1>CRACK THE CODE!</h1>
+        <h1>Four Digits!</h1>
         <Link to="/game">
           <button>PLAY</button>
         </Link>
