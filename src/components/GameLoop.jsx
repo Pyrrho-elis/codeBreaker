@@ -47,7 +47,7 @@ export default function GameLoop() {
       let scoreX = new Number(0)
       let scoreC = new Number(0)
   
-      const guessNumbers = guess.map(item => parseInt(item));
+      const guessNumbers = new guess.map(item => parseInt(item));
   
       console.log(guessNumbers)
       for (const num of guessNumbers) {
